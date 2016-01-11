@@ -42,15 +42,15 @@ All other required resources are available on [Moodle](http://umonline.umt.edu).
 
 ## Course Learning Outcomes and Assessments
 
-| **No.** | **After this course, students will have the knowledge & skills to:**| **This is assessed by:** |
+| **No.** | **After this course, students will have the knowledge & skills to:** | **This is assessed by:** |
 | - | - | - |
-| 1 | Define and identify the significance of key concepts in foreign policy and use them to describe AFP. |9/11 Analysis <BR>Policy Memos |
+| 1 | Define and identify the significance of key concepts in foreign policy and use them to describe AFP. | 9/11 Analysis <BR>Policy Memos |
 | 2 | Explain AFP decisionmaking and evaluate its success using seven theoretical models. | 9/11 Analysis<BR>Policy Memos |
 | 3 | Identify and describe the values informing the decisions of foreign policymakers on the means and end of AFP. | Policy Memos |
 | 4 | Describe the constraints key policy-makers face when making decisions about the means and ends of AFP. | Policy Memos<BR>Presentation |
 | 5 | Evaluate alternative foreign policy options using specific criteria that acknowledge existing constraints. | Policy Memos<BR>Presentation|
 | 6 | Make recommendations on the appropriate means and ends of AFP by choosing between alternative. | Policy Memos<BR>Presentation |
-| 7 | Assess the reliability, validity, accuracy, authority, timeliness, and bias of information sources on AFP. |Policy Memos|
+| 7 | Assess the reliability, validity, accuracy, authority, timeliness, and bias of information sources on AFP. | Policy Memos|
 
 ## Course Philosophy, Class Pedagogy, and Learning Objectives
 
