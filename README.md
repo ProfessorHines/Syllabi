@@ -5,6 +5,7 @@
 >**Office:** NCOR 332
 >**Office Hours:**
 >**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
+
 ##Course Information
 >**Course Number:** PSCI 335
 >**Class Location:** LA 337
