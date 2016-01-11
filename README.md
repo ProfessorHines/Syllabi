@@ -1,11 +1,11 @@
 #PSCI 335: American Foreign Policy (Spring 2016)
 
->##Instructor Contact Information
+##Instructor Contact Information
 >**Instructor**:  Eric Hines
 >**Office:** NCOR 332
 >**Office Hours:**
 >**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
->##Course Information
+##Course Information
 >**Course Number:** PSCI 335
 >**Class Location:** LA 337
 >**Meeting Time:** 3:10PM-4:00PM
