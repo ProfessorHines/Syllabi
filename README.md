@@ -1,15 +1,15 @@
 #PSCI 335: American Foreign Policy (Spring 2016)
 
 >##Instructor Contact Information
-**Instructor**:  Eric Hines
-**Office:** NCOR 332
-**Office Hours:**
-**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
+>**Instructor**:  Eric Hines
+>**Office:** NCOR 332
+>**Office Hours:**
+>**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
 >##Course Information
-**Course Number:** PSCI 335
-**Class Location:** LA 337
-**Meeting Time:** 3:10PM-4:00PM
-**CRN (Add/Drop):** 34539
+>**Course Number:** PSCI 335
+>**Class Location:** LA 337
+>**Meeting Time:** 3:10PM-4:00PM
+>**CRN (Add/Drop):** 34539
 
 ##Course Description and Prerequisites
 The purpose of this course is to enhance your ability to be an informed critic of **American foreign policy (AFP)**, _the means by which the United States pursues its interests or ends aboard._  The course's central argument is that while the U.S. remains the world's greatest power, it is an increasingly embattled and exhausted power due to internal and external limitations on its capacity. To support this thesis, the courses builds a toolkit of knowledge about AFP by examining the historical and theoretical context of AFP, evaluating some of its historical successes and failures, and identifying the major problems currently confronting AFP. This includes the understanding that:
