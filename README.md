@@ -1,16 +1,16 @@
 #PSCI 335: American Foreign Policy (Spring 2016)
 
 ##Instructor Contact Information
->**Instructor**:  Eric Hines
->**Office:** NCOR 332
->**Office Hours:**
->**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
+**Instructor**:  Eric Hines
+**Office:** NCOR 332
+**Office Hours:** MWF 10:00-11:00 and by appointment.
+**Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
 
 ##Course Information
->**Course Number:** PSCI 335
->**Class Location:** LA 337
->**Meeting Time:** 3:10PM-4:00PM
->**CRN (Add/Drop):** 34539
+**Course Number:** PSCI 335
+**Class Location:** LA 337
+**Meeting Time:** 3:10PM-4:00PM
+**CRN (Add/Drop):** 34539
 
 ##Course Description and Prerequisites
 The purpose of this course is to enhance your ability to be an informed critic of **American foreign policy (AFP)**, _the means by which the United States pursues its interests or ends aboard._  The course's central argument is that while the U.S. remains the world's greatest power, it is an increasingly embattled and exhausted power due to internal and external limitations on its capacity. To support this thesis, the courses builds a toolkit of knowledge about AFP by examining the historical and theoretical context of AFP, evaluating some of its historical successes and failures, and identifying the major problems currently confronting AFP. This includes the understanding that:
@@ -38,7 +38,7 @@ There are three required textbooks available at the UC Bookstore or online:
 All other required resources are available on [Moodle](http://umonline.umt.edu).
 
 ## Course Learning Outcomes and Assessments
-| **No.** | **After this course, students will have the knowledge & skills to:** | **This is assessed by:** |
+| **No.** | **After this course, students will have the knowledge & skills to:**| **This is assessed by:** |
 | :-: | :--- | -- |
 | 1 | Define and identify the significance of key concepts in foreign policy and use them to describe AFP. |9/11 Analysis <BR>Policy Memos |
 | 2 | Explain AFP decisionmaking and evaluate its success using seven theoretical models. | 9/11 Analysis<BR>Policy Memos |
