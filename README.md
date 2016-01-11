@@ -3,15 +3,21 @@
 ##Instructor Contact Information
 
 **Instructor**:  Eric Hines
+
 **Office:** NCOR 332
+
 **Office Hours:** MWF 10:00-11:00 and by appointment.
+
 **Email:** [eric.hines@umontana.edu](mailto:eric.hines@umontana.edu)
 
 ##Course Information
 
 **Course Number:** PSCI 335
+
 **Class Location:** LA 337
+
 **Meeting Time:** 3:10PM-4:00PM
+
 **CRN (Add/Drop):** 34539
 
 ##Course Description and Prerequisites
